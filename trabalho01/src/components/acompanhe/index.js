@@ -34,7 +34,8 @@ const styles = StyleSheet.create({
     contaText1: {
         marginTop:10,
         marginLeft:20,
-        fontWeight: "700"
+        fontWeight: "700",
+        fontSize:15
       },
       cartoes: {
         justifyContent: "center",

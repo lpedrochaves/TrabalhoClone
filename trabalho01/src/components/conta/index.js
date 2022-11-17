@@ -38,6 +38,7 @@ function Conta() {
       },
       highlight: {
         fontWeight: '700',
+        fontSize:15
       },
     
   });

@@ -26,7 +26,8 @@ function LimiteCartoes() {
       contaText1: {
         marginTop:10,
         marginLeft:20,
-        fontWeight: "700"
+        fontWeight: "700",
+        fontSize:15
       },
       contaText2: {
         marginTop:10,
@@ -39,6 +40,7 @@ function LimiteCartoes() {
       },
       highlight: {
         fontWeight: '700',
+        fontSize:15
       },
   });
   

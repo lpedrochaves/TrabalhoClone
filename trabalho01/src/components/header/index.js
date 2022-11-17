@@ -35,7 +35,8 @@ const styles = StyleSheet.create({
         marginBottom: 25,
         marginRight: 80,
         marginLeft: -57,
-        fontWeight: "700"
+        fontWeight: "700",
+        fontSize:15
     },
     headerImage: {
         marginTop: 20,
